@@ -9,6 +9,9 @@ module.exports = {
       fontFamily: {
         robotom: ["Roboto Mono"],
       },
+      aspectRatio: {
+        "4/3": "4 / 3",
+      },
     },
   },
   plugins: [],

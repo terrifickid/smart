@@ -22,6 +22,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltejs/adapter-static": "^2.0.1"
+		"@sveltejs/adapter-static": "^2.0.1",
+		"svelte-spa-router": "^3.3.0"
 	}
 }
